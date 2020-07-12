@@ -15,3 +15,10 @@ fitness: checkpoint who give 500 pts + distance max
 
 
 ![aaa](https://user-images.githubusercontent.com/54853371/87259482-eb0a6480-c4ab-11ea-92ea-0b52997c795b.png)
+
+
+
+https://www.robot-maker.com/forum/tutorials/article/28-reseaux-de-neurones-algorithme-genetique-dapprentissage/
+https://www.youtube.com/watch?v=ncj_hBfRt-Y&t=1075s
+https://www.youtube.com/watch?v=9tCySY6TLk8&t=701s
+https://www.youtube.com/watch?v=21gN4YPQZa0&t=80s
