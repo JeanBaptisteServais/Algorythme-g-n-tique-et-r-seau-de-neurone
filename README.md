@@ -11,3 +11,7 @@ activation sigmoid<br>
 
 genetic: modify x% of gene randomly by contribution of the first of the generation<br>
 fitness: checkpoint who give 500 pts + distance max
+
+
+
+![aaa](https://user-images.githubusercontent.com/54853371/87259482-eb0a6480-c4ab-11ea-92ea-0b52997c795b.png)
