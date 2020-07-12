@@ -3,10 +3,10 @@
 Application can be use as an aspirator
 
 
-entries: 5 lasers for detect wall
-deplacement: accelerate or turn left/right
-Rnn : 5 entries, 25:15:3
-activation sigmoid
+entries: 5 lasers for detect wall <br>
+deplacement: accelerate or turn left/right<br>
+Rnn : 5 entries, 25:15:3<br>
+activation sigmoid<br>
 
-genetic: modify x% of gene randomly by contribution of the first of the generation
+genetic: modify x% of gene randomly by contribution of the first of the generation<br>
 fitness: checkpoint who give 500 pts + distance max
