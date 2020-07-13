@@ -32,6 +32,8 @@ make move a circle into a labyrinth, if it touch wall it die, if one go to far, 
 ![e](https://user-images.githubusercontent.com/54853371/87260081-f5c6f880-c4af-11ea-9d09-34afaf7970c9.png)
 ![c](https://user-images.githubusercontent.com/54853371/87260084-f6f82580-c4af-11ea-9841-f774d1658ad9.png)
 ![a](https://user-images.githubusercontent.com/54853371/87260086-f8c1e900-c4af-11ea-8d3e-7692265c249f.png)
+![k](https://user-images.githubusercontent.com/54853371/87260243-0035c200-c4b1-11ea-84bb-0a1f48e4c03d.png)
+![l](https://user-images.githubusercontent.com/54853371/87260244-00ce5880-c4b1-11ea-8bfc-8a53c52c2e91.png)
 
 
 
