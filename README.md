@@ -6,18 +6,18 @@ make move a circle into a labyrinth, if it touch wall it die, if one go to far, 
 
 
 <strong>entries:</strong> 5 lasers for detect wall <br>
-<hr>deplacement:</hr> accelerate or no and turn left or right<br>
-<hr>Rnn :</hr> 5 entries, 25:15:3<br>
-<hr>Output 3</hr>: accelerates, turn left or right
-<hr>biais and weight</hr> uniform -2; 2
-<hr>activation</hr> sigmoid<br>
+<strong>deplacement:</strong> accelerate or no and turn left or right<br>
+<strong>Rnn :</strong> 5 entries, 25:15:3<br>
+<strong>Output 3</strong>: accelerates, turn left or right
+<strong>biais and weight</strong> uniform -2; 2
+<strong>activation</strong> sigmoid<br>
 
-<hr>genetic:</hr> modify x% of gene randomly by contribution of the first of the generation / modificate weight randomly with 20 % chance max<br>
-<hr>fitness:</hr> checkpoint who give 500 pts + distance max
+<strong>genetic:</strong> modify x% of gene randomly by contribution of the first of the generation / modificate weight randomly with 20 % chance max<br>
+<strong>fitness:</strong> checkpoint who give 500 pts + distance max
 
 
 
-<hr>it take really long time for learn in compraison with video so it could be some errors</hr>
+<strong>it take really long time for learn in compraison with video so it could be some errors</strong>
 
 
 
