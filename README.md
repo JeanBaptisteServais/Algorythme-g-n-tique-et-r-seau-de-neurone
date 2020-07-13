@@ -37,7 +37,10 @@ make move a circle into a labyrinth, if it touch wall it die, if one go to far, 
 
 
 
+<h1>To notice</h1>
 
+MODE 2 is for play with "zqsd"
+MODE 0 for lunch it
 
 
 
