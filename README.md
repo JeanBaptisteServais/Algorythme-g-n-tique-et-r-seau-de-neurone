@@ -71,5 +71,6 @@ Tuto
 
 https://www.robot-maker.com/forum/tutorials/article/28-reseaux-de-neurones-algorithme-genetique-dapprentissage/ <br>
 https://www.youtube.com/watch?v=ncj_hBfRt-Y&t=1075s<br>
+https://www.youtube.com/watch?v=og5m7f1seno&list=PLpEPgC7cUJ4b1ARx8PyIQa_sdZRL2GXw5<br>
 https://www.youtube.com/watch?v=9tCySY6TLk8&t=701s<br>
 https://www.youtube.com/watch?v=21gN4YPQZa0&t=80s<br>
