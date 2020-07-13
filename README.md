@@ -6,7 +6,7 @@ make move a circle into a labyrinth, if it touch wall it die, if one go to far, 
 
 
 entries: 5 lasers for detect wall <br>
-deplacement: accelerate or turn left/right<br>
+deplacement: accelerate or no and turn left or right<br>
 Rnn : 5 entries, 25:15:3<br>
 biais and weight uniform -2; 2
 activation sigmoid<br>
