@@ -5,7 +5,7 @@ Application can be use as an aspirator
 make move a circle into a labyrinth, if it touch wall it die, if one go to far, all other imitates it by taking its parameters, it move thank to his laser who give euclidean distances and the neural network. Changing parameters of the rnn from (the genetic algorythm who's, "other imitated" 
 
 
-<hr>entries:</hr> 5 lasers for detect wall <br>
+<strong>entries:</strong> 5 lasers for detect wall <br>
 <hr>deplacement:</hr> accelerate or no and turn left or right<br>
 <hr>Rnn :</hr> 5 entries, 25:15:3<br>
 <hr>Output 3</hr>: accelerates, turn left or right
