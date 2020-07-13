@@ -24,6 +24,46 @@ make move a circle into a labyrinth, if it touch wall it die, if one go to far, 
 ![aaa](https://user-images.githubusercontent.com/54853371/87259482-eb0a6480-c4ab-11ea-92ea-0b52997c795b.png)
 
 
+
+![h](https://user-images.githubusercontent.com/54853371/87260076-f2cc0800-c4af-11ea-9828-5b550fe7b354.png)
+![g](https://user-images.githubusercontent.com/54853371/87260079-f3fd3500-c4af-11ea-93a1-bf2363039704.png)
+
+![f](https://user-images.githubusercontent.com/54853371/87260080-f495cb80-c4af-11ea-9675-df5a61939ff7.png)
+![e](https://user-images.githubusercontent.com/54853371/87260081-f5c6f880-c4af-11ea-9d09-34afaf7970c9.png)
+![d](https://user-images.githubusercontent.com/54853371/87260083-f65f8f00-c4af-11ea-9dec-3a9f8b3ff78e.png)
+![c](https://user-images.githubusercontent.com/54853371/87260084-f6f82580-c4af-11ea-9841-f774d1658ad9.png)
+![b](https://user-images.githubusercontent.com/54853371/87260085-f8295280-c4af-11ea-9453-3407c79a7177.png)
+![a](https://user-images.githubusercontent.com/54853371/87260086-f8c1e900-c4af-11ea-8d3e-7692265c249f.png)
+
+![i](https://user-images.githubusercontent.com/54853371/87260075-f2337180-c4af-11ea-8718-d576145cc198.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tuto
 
 https://www.robot-maker.com/forum/tutorials/article/28-reseaux-de-neurones-algorithme-genetique-dapprentissage/ <br>
