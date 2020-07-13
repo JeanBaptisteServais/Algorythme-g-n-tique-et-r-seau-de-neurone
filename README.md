@@ -12,8 +12,12 @@ Output 3: accelerates, turn left or right
 biais and weight uniform -2; 2
 activation sigmoid<br>
 
-genetic: modify x% of gene randomly by contribution of the first of the generation<br>
+genetic: modify x% of gene randomly by contribution of the first of the generation / modificate weight randomly with 20 % chance max<br>
 fitness: checkpoint who give 500 pts + distance max
+
+
+
+it take really long time for learn in compraison with video so it could be some errors
 
 
 
